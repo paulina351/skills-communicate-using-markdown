@@ -6,3 +6,6 @@ commit to github
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on Github Pages
+- [x] Outline my Portfolio
+- [ ] Introduce myself to the world
